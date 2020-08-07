@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Roger 👋
+
+### Connect with me:
+
+[<img align="left" alt="rogerwelin.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="www.linkedin.com/in/rogerwelin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+
 
 <!--
 **rogerwelin/rogerwelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
