@@ -7,7 +7,7 @@
 </p>
 
 
-[![Rogers's github stats](https://github-readme-stats.vercel.app/api?username=rogerwelin)](https://github.com/anuraghazra/github-readme-stats)
+[![Rogers's github stats](https://github-readme-stats.vercel.app/api?username=rogerwelin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
