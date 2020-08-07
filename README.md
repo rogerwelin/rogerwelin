@@ -10,7 +10,7 @@
 [![Rogers's github stats](https://github-readme-stats.vercel.app/api?username=rogerwelin&show_icons=true&theme=dracula)](https://github.com/rogerwelin)
 <br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rogerwelin&repo=cassowary&theme=dracula)](https://github.com/rogerwelin/cassowary)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rogerwelin&repo=rogerwelin.github.io&theme=dracula)](https://github.com/rogerwelin/rogerwelin.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rogerwelin&repo=rogerwelin.github.io&theme=dracula)](https://rogerwelin.github.io)
 
 
 
