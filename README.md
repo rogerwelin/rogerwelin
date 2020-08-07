@@ -2,7 +2,7 @@
 
 ### Connect with me:
 <p>
-  <a href="https://rogerwelin.github.io"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px" alt="Website"></a>
+  <a href="https://rogerwelin.github.io"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px" alt="Website"></a>.     
   <a href="www.linkedin.com/in/rogerwelin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="Linkedin"></a>
 </p>
 
