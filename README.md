@@ -1,10 +1,5 @@
 ### Hi there, I'm Roger 👋
 
-### Connect with me:
-
-[<img align="left" alt="https://rogerwelin.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-
 
 
 <!--
