@@ -7,10 +7,10 @@
 </p>
 
 
-[![Rogers's github stats](https://github-readme-stats.vercel.app/api?username=rogerwelin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Rogers's github stats](https://github-readme-stats.vercel.app/api?username=rogerwelin&show_icons=true&theme=dracula)](https://github.com/rogerwelin)
 <br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rogerwelin&repo=cassowary&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rogerwelin&repo=rogerwelin.github.io&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rogerwelin&repo=cassowary&theme=dracula)](https://github.com/rogerwelin/githubcassowary)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rogerwelin&repo=rogerwelin.github.io&theme=dracula)](https://github.com/rogerwelin/rogerwelin.github.io)
 
 
 
