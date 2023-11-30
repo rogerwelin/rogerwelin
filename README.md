@@ -8,7 +8,7 @@ DevOps, SRE & Developer
 * ✉️  You can contact me at [roger.welin@icloud.com](mailto:roger.welin@icloud.com)
 * 🚀  I'm currently working on [cfnctl](https://github.com/rogerwelin/cfnctl)
 * 👉 You can check out my [tech blog here](https://rogerwelin.github.io)
-* 🧠  I'm learning Rust
+* 🧠  I'm learning Zig
 * ⚡  Cloud Architect, DevOps, gopher, tool builder, developer, open source contributor, featured tech blogger
 
 ### Skills
